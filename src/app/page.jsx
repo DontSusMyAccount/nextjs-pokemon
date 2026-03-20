@@ -1,11 +1,11 @@
 import Header from "./components/Header";
-import Pokedata from "./components/Pokedata";
+import PokeData from "./components/PokeData";
 
 export default function Home() {
   return (
     <>
     <Header />
-    <Pokedata />
+    <PokeData />
     </>
   );
 }
